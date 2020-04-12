@@ -13,7 +13,7 @@ To complite ts files, first install typescript via NPM.
 
 then use
 
-`tsc example.ts`
+`tsc example.ts // or any file you want` 
 
 A `example.js` file will appear, to run use
 `node example.js`
