@@ -7,9 +7,10 @@ Exercises will be placed in folder according to their category.
 - Structural
 - Behavioral
 
-To complite ts files, first install typescript via NPM
+To complite ts files, first install typescript via NPM.
 `npm install -g typescript`
 then use
 `tsc example.ts`
+
 A `example.js` file will appear, to run use
 `node example.js`
